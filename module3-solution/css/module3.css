@@ -12,6 +12,11 @@ body {
     padding: 0;    
 }
 
+.navbar-brand {
+    font-size: 250%;
+    font-weight: bold;
+}
+
 .container-fluid {
     padding-top: 10px;
     padding-bottom: 10px;
